@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Working hard to become a qualified front-end engineer.
+
 <!--
 **yixuxiMQ/yixuxiMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
