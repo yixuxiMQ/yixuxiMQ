@@ -140,3 +140,5 @@ Here are some ideas to get you started:
 矛盾和问题，因为即使星星有时也会碰在一起，
 
 形成新的世界，今天我明白，这就是“生命”。
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
