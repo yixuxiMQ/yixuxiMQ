@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 <hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixuxiMQ&exclude_repo=github-readme-stats,yixuxiMQ.github.io&theme=buefy)](https://github.com/yixuxiMQ/github-readme-stats)
+<hr />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
