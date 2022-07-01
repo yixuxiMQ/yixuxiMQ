@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixuxiMQ&show_icons=true)
+<hr />
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yixuxi)](https://github.com/anuraghazra/github-readme-stats)
+<hr />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixuxiMQ&exclude_repo=github-readme-stats,yixuxiMQ.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
