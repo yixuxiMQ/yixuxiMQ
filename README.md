@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://count.getloli.com/get/@:yixuxiMQ?theme=gelbooru">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixuxiMQ&show_icons=true&locale=cn&theme=buefy)
 <hr />
