@@ -140,5 +140,12 @@ Here are some ideas to get you started:
 矛盾和问题，因为即使星星有时也会碰在一起，
 
 形成新的世界，今天我明白，这就是“生命”。
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
