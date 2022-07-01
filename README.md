@@ -28,6 +28,20 @@ Here are some ideas to get you started:
 <hr />
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 June 2022 - To: 30 June 2022
+
+Total Time: 11 hrs 47 mins
+
+Vue.js       6 hrs 40 mins   ██████████████░░░░░░░░░░░   55.70 %
+JavaScript   3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.18 %
+Markdown     57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+```
+
 <!--END_SECTION:waka-->
 
 
