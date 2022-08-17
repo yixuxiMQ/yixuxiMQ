@@ -39,9 +39,9 @@
 ```text
 Total Time: 4 hrs 51 mins
 
-JavaScript   2 hrs 58 mins   ███████████████████████▒░   93.55 %
-JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JavaScript   6 hrs 2 mins    ████████████████████████░   96.57 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
