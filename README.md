@@ -37,10 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 40 mins
-
-JavaScript   32 mins         ████████████████████░░░░░   80.10 %
-HTML         7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
