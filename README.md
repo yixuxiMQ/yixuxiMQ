@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 42 mins
+Total Time: 39 mins
 
-Vue.js       22 mins         █████████████░░░░░░░░░░░░   52.30 %
-Text         13 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-JavaScript   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+JavaScript   19 mins         ████████████▓░░░░░░░░░░░░   50.23 %
+HTML         9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Vue.js       9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.22 %
 ```
 
 <!--END_SECTION:waka-->
