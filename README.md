@@ -37,12 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 40 mins
+Total Time: 22 hrs 19 mins
 
-JavaScript   18 hrs 24 mins  ████████████████████████▓   98.57 %
-Go           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   22 hrs 18 mins  █████████████████████████   99.91 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
